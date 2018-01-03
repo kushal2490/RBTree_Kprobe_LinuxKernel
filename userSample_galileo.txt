@@ -1,0 +1,303 @@
+Registering probe at offset=0xff in rb_insert() 
+
+Inserting NODE: k=1 v=1
+Reading last updated buffer 
+kprobe Buffer:
+	kprobe addr = d29c32ff
+	PID			= 310
+	Timestamp	= 61142944393
+	Objects Traversed
+	Key = 1  Data = 1
+
+Inserting NODE: k=2 v=2
+Reading last updated buffer 
+kprobe Buffer:
+	kprobe addr = d29c32ff
+	PID			= 310
+	Timestamp	= 61146572934
+	Objects Traversed
+	Key = 1  Data = 1
+	Key = 2  Data = 2
+	Key = 3  Data = 3
+
+Inserting NODE: k=4 v=4
+
+Inserting NODE: k=3 v=3
+
+Inserting NODE: k=5 v=5
+Reading last updated buffer 
+kprobe Buffer:
+	kprobe addr = d29c32ff
+	PID			= 312
+	Timestamp	= 61151731344
+	Objects Traversed
+	Key = 2  Data = 2
+	Key = 3  Data = 3
+	Key = 4  Data = 4
+	Key = 5  Data = 5
+
+Inserting NODE: k=6 v=6
+
+Inserting NODE: k=7 v=7
+
+Inserting NODE: k=8 v=8
+Reading last updated buffer 
+kprobe Buffer:
+	kprobe addr = d29c32ff
+	PID			= 312
+	Timestamp	= 61156788728
+	Objects Traversed
+	Key = 2  Data = 2
+	Key = 4  Data = 4
+	Key = 6  Data = 6
+	Key = 7  Data = 7
+	Key = 8  Data = 8
+
+Inserting NODE: k=9 v=9
+
+Inserting NODE: k=11 v=11
+Reading last updated buffer 
+kprobe Buffer:
+	kprobe addr = d29c32ff
+	PID			= 312
+	Timestamp	= 61161894004
+	Objects Traversed
+	Key = 4  Data = 4
+	Key = 6  Data = 6
+	Key = 8  Data = 8
+	Key = 9  Data = 9
+	Key = 10  Data = 10
+	Key = 11  Data = 11
+
+Inserting NODE: k=13 v=13
+
+Inserting NODE: k=12 v=12
+
+Inserting NODE: k=10 v=10
+
+Inserting NODE: k=14 v=14
+Reading last updated buffer 
+kprobe Buffer:
+	kprobe addr = d29c32ff
+	PID			= 312
+	Timestamp	= 61167250422
+	Objects Traversed
+	Key = 4  Data = 4
+	Key = 8  Data = 8
+	Key = 10  Data = 10
+	Key = 12  Data = 12
+	Key = 13  Data = 13
+	Key = 14  Data = 14
+
+Inserting NODE: k=17 v=17
+
+Inserting NODE: k=16 v=16
+
+Inserting NODE: k=15 v=15
+
+Inserting NODE: k=18 v=18
+
+Inserting NODE: k=19 v=19
+Unregistering probe at offset=0xff in rb_insert() 
+
+Inserting NODE: k=21 v=21
+
+Inserting NODE: k=22 v=22
+
+Inserting NODE: k=23 v=23
+
+Inserting NODE: k=24 v=24
+
+Inserting NODE: k=20 v=20
+
+Inserting NODE: k=26 v=26
+
+Inserting NODE: k=28 v=28
+
+Inserting NODE: k=27 v=27
+
+Inserting NODE: k=30 v=30
+
+Inserting NODE: k=32 v=32
+
+Inserting NODE: k=31 v=31
+
+Inserting NODE: k=29 v=29
+
+Inserting NODE: k=25 v=25
+
+Inserting NODE: k=34 v=34
+
+Inserting NODE: k=37 v=37
+
+Inserting NODE: k=36 v=36
+
+Inserting NODE: k=38 v=38
+
+Inserting NODE: k=39 v=39
+
+Inserting NODE: k=35 v=35
+
+Inserting NODE: k=33 v=33
+
+Inserting NODE: k=40 v=40
+Reading End 0 of Tree: k=1, v=1
+Reading End 0 of Tree: k=2, v=2
+
+Write Request: k=27 v=78
+Reading End 1 of Tree: k=4, v=4
+Reading End 1 of Tree: k=3, v=3
+
+Write Request: k=19 v=126
+
+Write Request: k=45 v=56
+Reading End 0 of Tree: k=27, v=78
+Reading End 0 of Tree: k=5, v=5
+
+Write Request: k=54 v=141
+Reading End 0 of Tree: k=19, v=126
+Reading End 0 of Tree: k=6, v=6
+
+Write Request: k=17 v=134
+Reading End 1 of Tree: k=8, v=8
+
+Write Request: k=17 v=139
+
+Write Request: k=9 v=69
+
+Write Request: k=44 v=61
+Reading End 0 of Tree: k=7, v=7
+Reading End 1 of Tree: k=10, v=10
+Reading End 1 of Tree: k=54, v=141
+Reading End 0 of Tree: k=17, v=139
+
+Write Request: k=23 v=60
+
+Write Request: k=29 v=45
+Reading End 0 of Tree: k=12, v=12
+
+Write Request: k=59 v=78
+
+Write Request: k=34 v=106
+
+Write Request: k=28 v=117
+Reading End 1 of Tree: k=14, v=14
+Reading End 1 of Tree: k=13, v=13
+
+Write Request: k=93 v=60
+Reading End 1 of Tree: k=34, v=106
+
+Write Request: k=28 v=71
+Reading End 1 of Tree: k=28, v=71
+Reading End 1 of Tree: k=9, v=69
+Reading End 0 of Tree: k=59, v=78
+Reading End 1 of Tree: k=11, v=11
+
+Write Request: k=25 v=86
+
+Write Request: k=48 v=53
+Reading End 0 of Tree: k=54, v=128
+
+Write Request: k=54 v=128
+Reading End 0 of Tree: k=16, v=16
+
+Write Request: k=30 v=120
+
+Write Request: k=16 v=124
+Reading End 0 of Tree: k=21, v=21
+Reading End 1 of Tree: k=20, v=20
+Reading End 0 of Tree: k=18, v=18
+Reading End 1 of Tree: k=15, v=15
+Reading End 1 of Tree: k=30, v=120
+Reading End 1 of Tree: k=16, v=124
+
+Write Request: k=68 v=132
+Reading End 0 of Tree: k=68, v=132
+Reading End 0 of Tree: k=99, v=138
+
+Write Request: k=99 v=138
+
+Write Request: k=72 v=63
+Reading End 0 of Tree: k=22, v=22
+
+Write Request: k=21 v=46
+
+Write Request: k=67 v=47
+Reading End 0 of Tree: k=24, v=24
+
+Write Request: k=79 v=60
+
+Write Request: k=84 v=100
+Reading End 0 of Tree: k=31, v=31
+Reading End 0 of Tree: k=26, v=26
+Reading End 0 of Tree: k=35, v=35
+Reading End 0 of Tree: k=33, v=33
+Reading End 1 of Tree: k=32, v=32
+Reading End 1 of Tree: k=32, v=97
+Reading End 1 of Tree: k=84, v=100
+
+Write Request: k=2 v=44
+Reading End 1 of Tree: k=72, v=63
+Reading End 1 of Tree: k=25, v=86
+
+Write Request: k=32 v=97
+
+Write Request: k=8 v=100
+Reading End 1 of Tree: k=44, v=61
+
+Write Request: k=48 v=132
+
+Write Request: k=68 v=71
+Reading End 0 of Tree: k=8, v=100
+
+Write Request: k=57 v=71
+
+Write Request: k=63 v=139
+Reading End 1 of Tree: k=39, v=39
+Reading End 0 of Tree: k=38, v=38
+Reading End 0 of Tree: k=37, v=37
+Reading End 0 of Tree: k=36, v=36
+
+Write Request: k=28 v=45
+
+Write Request: k=38 v=101
+Reading End 0 of Tree: k=40, v=40
+
+Write Request: k=29 v=91
+
+Write Request: k=92 v=137
+Reading End 0 of Tree: k=2, v=44
+Reading End 1 of Tree: k=21, v=46
+
+Write Request: k=26 v=74
+
+Write Request: k=43 v=77
+
+Write Request: k=39 v=134
+Reading End 0 of Tree: k=63, v=139
+
+Write Request: k=90 v=67
+Reading End 1 of Tree: k=67, v=47
+Reading End 0 of Tree: k=92, v=137
+
+Write Request: k=34 v=132
+
+Write Request: k=90 v=89
+
+Write Request: k=31 v=135
+
+Write Request: k=86 v=56
+Reading End 0 of Tree: k=45, v=56
+
+ **** DUMPING TREE **** 
+
+node 1: k=23  v=60
+node 2: k=68  v=71
+node 3: k=26  v=74
+node 4: k=43  v=77
+node 5: k=90  v=89
+node 6: k=29  v=91
+node 7: k=38  v=101
+node 8: k=48  v=132
+node 9: k=39  v=134
+node 10: k=31  v=135
